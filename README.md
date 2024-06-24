@@ -1,7 +1,7 @@
 # Federated Learning for wind turbine condition monitoring. 
 
 This project evaluates the effectiveness of Federated Learning in improving model performances compared to local turbine training while preserving the privacy of the data by not having to share the data of individual turbines. 
-
+This repository is also available in the group project https://github.com/EnergyWeatherAI/FL-Wind-NBM.git
 ## Requirement 
 
 Please install the packages in requirements.txt
